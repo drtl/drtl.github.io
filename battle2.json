@@ -1,42 +1,42 @@
 {
   "s": [
-    "A wild [o] has appeared → and attacked [c]!",
-    "[o] jumps out from the shadows → and strikes at [c]!",
-    "[o] ambushes [c] → in the wild!",
-    "[o] rushes towards [c] → from the bushes!",
-    "A ferocious [o] lunges at [c] → without warning!",
-    "[o] emerges from a dark portal → charging at [c]!"
+    "→ A wild [o] has appeared and attacked [c]!",
+    "→ [o] jumps out from the shadows and strikes at [c]!",
+    "→ [o] ambushes [c] in the wild!",
+    "→ [o] rushes towards [c] from the bushes!",
+    "→ A ferocious [o] lunges at [c] without warning!",
+    "→ [o] emerges from a dark portal, charging at [c]!"
   ],
   "k": [
-    "[c] used Thunderbolt → on [o]!",
-    "[c] used Fireball → on [o]!",
-    "[c] used Ice Blast → on [o]!",
-    "[c] cast Shadow Strike → on [o]!",
-    "[c] unleashes a Poison Dart → on [o]!",
-    "[c] summoned a Meteor Strike → raining down on [o]!",
-    "[c] used Earthquake → to shake [o]'s ground!",
-    "[c] called upon the Wind Slash → to cut through [o]!"
+    "→ [c] used Thunderbolt on [o]!",
+    "→ [c] used Fireball on [o]!",
+    "→ [c] used Ice Blast on [o]!",
+    "→ [c] cast Shadow Strike on [o]!",
+    "→ [c] unleashes a Poison Dart on [o]!",
+    "→ [c] summoned a Meteor Strike, raining down on [o]!",
+    "→ [c] used Earthquake to shake [o]'s ground!",
+    "→ [c] called upon the Wind Slash to cut through [o]!"
   ],
   "d": [
-    "[o] successfully dodged the attack → skillfully!",
-    "[o] blocked the attack → with a shield!",
-    "[o] parried the attack → skillfully!",
-    "[o] deflected the attack → with a magical barrier!",
-    "[o] rolled away just in time → to avoid the strike!",
-    "[o] absorbed the impact → using an enchanted amulet!",
-    "[o] used Mirror Shield → to reflect the attack!"
+    "→ [o] successfully dodged the attack!",
+    "→ [o] blocked the attack with a shield!",
+    "→ [o] parried the attack skillfully!",
+    "→ [o] deflected the attack with a magical barrier!",
+    "→ [o] rolled away just in time to avoid the strike!",
+    "→ [o] absorbed the impact using an enchanted amulet!",
+    "→ [o] used Mirror Shield to reflect the attack!"
   ],
-  "dm": "[o] failed to dodge → and died at the hands of [c]!",
+  "dm": "→ [o] failed to dodge and died at the hands of [c]!",
   "v": [
-    "[c] celebrates the victory → as [o] falls!",
-    "[c] stands tall → as [o] crumbles!",
-    "[c] has defeated [o] → with a final blow!",
-    "[c] emerges victorious → leaving [o] in the dust!"
+    "→ [c] celebrates the victory as [o] falls!",
+    "→ [c] stands tall as [o] crumbles!",
+    "→ [c] has defeated [o] with a final blow!",
+    "→ [c] emerges victorious, leaving [o] in the dust!"
   ],
   "f": [
-    "[c] missed the attack → giving [o] an opening!",
-    "[c] stumbles → and [o] counters swiftly!",
-    "[c] was caught off guard → and [o] turns the tide!",
-    "[c]'s attack backfired → and [o] takes control!"
+    "→ [c] missed the attack, giving [o] an opening!",
+    "→ [c] stumbles and [o] counters swiftly!",
+    "→ [c] was caught off guard, and [o] turns the tide!",
+    "→ [c]'s attack backfired, and [o] takes control!"
   ]
 }
