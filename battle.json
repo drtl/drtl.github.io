@@ -1,0 +1,42 @@
+{
+  "spawnMessages": [
+    "A wild [opponent] has appeared and attacked [challenger]!",
+    "[opponent] jumps out from the shadows and strikes at [challenger]!",
+    "[opponent] ambushes [challenger] in the wild!",
+    "[opponent] rushes towards [challenger] from the bushes!",
+    "A ferocious [opponent] lunges at [challenger] without warning!",
+    "[opponent] emerges from a dark portal, charging at [challenger]!"
+  ],
+  "skillSets": [
+    "[challenger] used Thunderbolt on [opponent]!",
+    "[challenger] used Fireball on [opponent]!",
+    "[challenger] used Ice Blast on [opponent]!",
+    "[challenger] cast Shadow Strike on [opponent]!",
+    "[challenger] unleashes a Poison Dart on [opponent]!",
+    "[challenger] summoned a Meteor Strike, raining down on [opponent]!",
+    "[challenger] used Earthquake to shake [opponent]'s ground!",
+    "[challenger] called upon the Wind Slash to cut through [opponent]!"
+  ],
+  "defenseActions": [
+    "[opponent] successfully dodged the attack!",
+    "[opponent] blocked the attack with a shield!",
+    "[opponent] parried the attack skillfully!",
+    "[opponent] deflected the attack with a magical barrier!",
+    "[opponent] rolled away just in time to avoid the strike!",
+    "[opponent] absorbed the impact using an enchanted amulet!",
+    "[opponent] used Mirror Shield to reflect the attack!"
+  ],
+  "deathMessage": "[opponent] failed to dodge and died at the hands of [challenger]!",
+  "victoryActions": [
+    "[challenger] celebrates the victory as [opponent] falls!",
+    "[challenger] stands tall as [opponent] crumbles!",
+    "[challenger] has defeated [opponent] with a final blow!",
+    "[challenger] emerges victorious, leaving [opponent] in the dust!"
+  ],
+  "failureActions": [
+    "[challenger] missed the attack, giving [opponent] an opening!",
+    "[challenger] stumbles and [opponent] counters swiftly!",
+    "[challenger] was caught off guard, and [opponent] turns the tide!",
+    "[challenger]'s attack backfired, and [opponent] takes control!"
+  ]
+}
