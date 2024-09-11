@@ -5,7 +5,10 @@
     "→ [o] ambushes [c] in the wild!",
     "→ [o] rushes towards [c] from the bushes!",
     "→ A ferocious [o] lunges at [c] without warning!",
-    "→ [o] emerges from a dark portal, charging at [c]!"
+    "→ [o] emerges from a dark portal, charging at [c]!",
+    "→ [o] sneaks up on [c] from behind!",
+    "→ [o] roars as it approaches [c]!",
+    "→ [o] materializes from a burst of flames to attack [c]!"
   ],
   "k": [
     "→ [c] used Thunderbolt on [o]!",
@@ -15,7 +18,11 @@
     "→ [c] unleashes a Poison Dart on [o]!",
     "→ [c] summoned a Meteor Strike, raining down on [o]!",
     "→ [c] used Earthquake to shake [o]'s ground!",
-    "→ [c] called upon the Wind Slash to cut through [o]!"
+    "→ [c] called upon the Wind Slash to cut through [o]!",
+    "→ [c] unleashed a Lightning Storm on [o]!",
+    "→ [c] fired a Seismic Wave at [o]!",
+    "→ [c] summoned a Healing Wave to restore energy against [o]!",
+    "→ [c] used a Chain Lightning to strike [o] multiple times!"
   ],
   "d": [
     "→ [o] successfully dodged the attack!",
@@ -24,19 +31,26 @@
     "→ [o] deflected the attack with a magical barrier!",
     "→ [o] rolled away just in time to avoid the strike!",
     "→ [o] absorbed the impact using an enchanted amulet!",
-    "→ [o] used Mirror Shield to reflect the attack!"
+    "→ [o] used Mirror Shield to reflect the attack!",
+    "→ [o] evaded the strike with a quick dash!",
+    "→ [o] employed a counter-attack maneuver to avoid damage!",
+    "→ [o] used a smoke screen to obscure the attack!"
   ],
   "dm": "→ [o] failed to dodge and died at the hands of [c]!",
   "v": [
     "→ [c] celebrates the victory as [o] falls!",
     "→ [c] stands tall as [o] crumbles!",
     "→ [c] has defeated [o] with a final blow!",
-    "→ [c] emerges victorious, leaving [o] in the dust!"
+    "→ [c] emerges victorious, leaving [o] in the dust!",
+    "→ [c] triumphs as [o] succumbs to defeat!",
+    "→ [c] claims victory, watching [o] fall to the ground!"
   ],
   "f": [
     "→ [c] missed the attack, giving [o] an opening!",
     "→ [c] stumbles and [o] counters swiftly!",
     "→ [c] was caught off guard, and [o] turns the tide!",
-    "→ [c]'s attack backfired, and [o] takes control!"
+    "→ [c]'s attack backfired, and [o] takes control!",
+    "→ [c]'s aim was off, allowing [o] to seize the opportunity!",
+    "→ [c] fumbled the attack, leading to a counter by [o]!"
   ]
 }
